@@ -7,5 +7,5 @@ const friends = ["shamim", "umor", "limon", "shiab"];
 // console.log(friends.slice(1, 3));
 
 const item = friends.splice(0, 1);
-console.log(item);
+// console.log(item);
 

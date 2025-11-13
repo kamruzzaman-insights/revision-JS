@@ -9,11 +9,11 @@
 // ekta array er bitor theke elemet gulo ber kore anar method hocce spread opperator
 
 const sum = (...rest) => {
-    console.log(rest);
+    // console.log(rest);
 }
 
 sum(1, 2, 3);
 
 const numbers = [1, 2, 3, 4];
-console.log(...numbers);
+// console.log(...numbers);
 
